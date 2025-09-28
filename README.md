@@ -71,4 +71,4 @@ Add dark mode 🌙.
 
 🧑‍💻 Author
 
-Built with ❤️ by [Your Name]
+Built with ❤️ by Tushar Kumar
